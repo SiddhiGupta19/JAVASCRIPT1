@@ -1,0 +1,1 @@
+document.write("<h1>Hello ITM 3 sem</h1>")
